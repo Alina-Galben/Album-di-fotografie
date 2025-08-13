@@ -35,7 +35,7 @@ ___
 
 Clona la repository con:
 ```
-- git clone https://github.com/Alina-Galben/M4S2D1-Album-di-fotografie.git
+- git clone https://github.com/Alina-Galben/Album-di-fotografie.git
 - Apri index.html nel browser.
 - Esplora la galleria fotografica e interagisci con le transizioni.
 - Personalizza le immagini, i colori, le animazioni dal tuo editor di testo preferito!
