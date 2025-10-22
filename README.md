@@ -2,6 +2,8 @@
 
 Benvenutə in M4S2D1 – Album di Fotografie, una galleria web interattiva creata con HTML, CSS e JavaScript. Un piccolo progetto che mette insieme stile, interattività e semplicità per mostrare le tue fotografie in un layout elegante e dinamico.
 
+Guarda il sito live qui: [https://album-di-fotografie-alina.netlify.app](https://album-di-fotografie-alina.netlify.app)
+
 ### 📚 Home Page   
 ![Homepage](./public/homepage.png) 
 
